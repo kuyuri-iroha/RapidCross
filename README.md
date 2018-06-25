@@ -24,4 +24,4 @@ Rapid Crossは、私が高校生の時に作った2人用の対戦型格闘ゲ�
 (敬称略)
 
 ## ライセンス
-[Apache License 2.0](LICENSE)
+[BSD 2-Clause "Simplified" License](LICENSE)
