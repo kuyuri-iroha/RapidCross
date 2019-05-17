@@ -1,6 +1,7 @@
 # Rapid Cross
-Rapid Crossは、私が高校生の時に作った2人用の対戦型格闘ゲームです。Googleドライブの<a href="https://drive.google.com/file/d/19L3ZMNLCDVsCQIbf_13HYRjouaGqIyQP/view?usp=sharing" target="_blank">Rapid Crossフォルダ</a>をダウンロードし、RapidCross.exe を実行することで一応遊べます。実行する際は必ず README.html をご一読ください。主にソースコードを公開することを目的としており、今後更新することはないかと思います。
-落書き感覚のソースコードをお楽しみください。  
+Rapid Crossは、私が高校生の時に作った2人用の対戦型格闘ゲームです。Googleドライブの<a href="https://drive.google.com/file/d/19L3ZMNLCDVsCQIbf_13HYRjouaGqIyQP/view?usp=sharing" target="_blank">Rapid Crossフォルダ</a>をダウンロードし、RapidCross.exe を実行することで一応遊べます。実行する際は必ず README.html をご一読ください。
+
+動画(YouTube): [https://youtu.be/3Q3kcspQOp4](https://youtu.be/3Q3kcspQOp4)
 
 また、タイトル画面の背景のみWebで閲覧できます。  
 [Run on Web](https://www.shadertoy.com/view/XttcRH)
